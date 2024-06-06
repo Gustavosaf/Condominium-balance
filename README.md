@@ -10,6 +10,8 @@ The aim of this project is to do a descriptive analysis of a condominum over the
 
 3• Table with all expenses per year
 
+• Contributions are welcome! Feel free to open issues to report bugs or suggest improvements, and send pull requests with your contributions.
+
 ___________________________________________________
 # Análise de dados de Saldo de um Condomínio (PT)
 
@@ -23,4 +25,4 @@ O objetivo deste projeto é fazer uma análise descritiva de um condomínio ao l
 
 3• Tabela com todos os gastos por ano
 
-• Contributions are welcome! Feel free to open issues to report bugs or suggest improvements, and send pull requests with your contributions.
+• Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas para relatar bugs ou sugerir melhorias e enviar pull requests com suas contribuições.
