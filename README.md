@@ -25,4 +25,4 @@ O objetivo deste projeto é fazer uma análise descritiva de um condomínio ao l
 
 3• Tabela com todos os gastos por ano
 
-• Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas para relatar bugs ou sugerir melhorias e enviar pull requests com suas contribuições.
+• Contribuições são bem-vindas! Sinta-se à vontade para abrir pull requests para relatar bugs ou sugerir melhorias e enviar pull requests com suas contribuições.
