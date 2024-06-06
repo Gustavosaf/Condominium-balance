@@ -11,7 +11,7 @@ The aim of this project is to do a descriptive analysis of a condominum over the
 3• Table with all expenses per year
 
 ___________________________________________________
-# Análise de dados de um Balanço de Condomínio (PT)
+# Análise de dados de Saldo de um Condomínio (PT)
 
 ## Descrição
 O objetivo deste projeto é fazer uma análise descritiva de um condomínio ao longo dos anos (2019 a 2013).
