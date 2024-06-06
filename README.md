@@ -8,4 +8,4 @@ The aim of this project is to do a descriptive analysis of a condominum over the
 
 2• Pie Chart to general and administrative expenses.
 
-3° Table with all expenses per year
+3• Table with all expenses per year
