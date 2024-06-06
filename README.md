@@ -22,3 +22,5 @@ O objetivo deste projeto é fazer uma análise descritiva de um condomínio ao l
 2• Gráfico circular para despesas gerais e administrativas.
 
 3• Tabela com todos os gastos por ano
+
+• Contributions are welcome! Feel free to open issues to report bugs or suggest improvements, and send pull requests with your contributions.
