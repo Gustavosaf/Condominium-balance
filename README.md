@@ -3,6 +3,9 @@
 ## Description
 The aim of this project is to do a descriptive analysis of a condominum over the years (2019 to 2013).
 
+## Motivation 
+The motivation for the project comes from the need to inform the residents about the monthly condominium fee and the importance of transparency in expenses
+
 ## Main Features
 1• Time Series and Stacked Bar Chart to the condominuim balance.
 
@@ -17,6 +20,9 @@ ___________________________________________________
 
 ## Descrição
 O objetivo deste projeto é fazer uma análise descritiva de um condomínio ao longo dos anos (2019 a 2013).
+
+## Motivação
+A motivação do projeto surge da necessidade de informar os condôminos sobre a taxa mensal do condomínio e a importância da transparência nos gastos.
 
 ## Principais características
 1• Séries Temporais e Gráfico de Barras Empilhadas para o saldo do condomínio.
